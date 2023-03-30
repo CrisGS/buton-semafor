@@ -1,0 +1,19 @@
+.container {
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+}
+
+.btn {
+    color: white;
+    width: max-content;
+    font-weight: bolder;
+    font-family: cursive;
+    transition: 1.5s;
+}
+
+body {
+    background-color: rgb(161, 251, 251);
+}
